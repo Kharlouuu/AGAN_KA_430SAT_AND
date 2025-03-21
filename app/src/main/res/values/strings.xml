@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">News Flash Report</string>
+
+    <string-array name="headlines_array">
+        <item>The Streaming Services War Heats Up in 2025</item>
+        <item>AI\'s Growing Influence in Music and Entertainment</item>
+        <item>Kirsty Coventry Elected as New IOC President</item>
+        <item>Tech-Enabled Viewing Experiences Revolutionize Sports</item>
+        <item>Generative AI Set to Evolve Beyond Chatbots</item>
+    </string-array>
+
+    <string-array name="content_array">
+        <item>As competition intensifies among streaming platforms, companies are focusing on exclusive sports broadcasting rights and immersive content experiences to attract subscribers. Major players like Netflix and Amazon Prime Video are expected to lead the charge in this evolving landscape.</item>
+        <item>The music and entertainment industries are witnessing a significant rise in AI-powered content creation, with new partnerships emerging to produce AI-generated projects. This trend is reshaping how content is created and consumed, despite ongoing debates about copyright and authenticity.</item>
+        <item>Kirsty Coventry has been announced as the new President of the International Olympic Committee, marking a significant milestone in sports governance. Her leadership is expected to bring fresh perspectives to the Olympic movement.</item>
+        <item>The integration of technology in sports viewing is set to transform fan experiences, with companies like Cosm expanding their immersive venues and Meta enhancing live sports broadcasts through virtual reality applications.</item>
+        <item>Generative AI is anticipated to expand its role beyond text-based applications, integrating into creative software and everyday tools. This evolution could significantly impact various industries, including education and content creation.</item>
+    </string-array>
+
+    <string-array name="dates_array">
+        <item>March 21, 2025</item>
+        <item>January 10, 2025</item>
+        <item>February 02, 2025</item>
+        <item>March 10, 2025</item>
+        <item>March 20, 2025</item>
+    </string-array>
+
+    <string-array name="authors_array">
+        <item>Lila Montgomery</item>
+        <item>Ethan Caldwell</item>
+        <item>Priya Sharma</item>
+        <item>Marcus Thorne</item>
+        <item>Zoe Reynolds</item>
+    </string-array>
+</resources>
